@@ -3,7 +3,7 @@
 ### highlight 
 
 
-[hoge](./GenericApp.png) 
+![hoge](./GenericApp.png) 
 
 
 
